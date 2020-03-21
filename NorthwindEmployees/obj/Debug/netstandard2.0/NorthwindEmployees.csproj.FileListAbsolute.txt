@@ -1,0 +1,6 @@
+C:\sourcecode\csharp\chapter14\PracticalApps\NorthwindEmployees\obj\Debug\netstandard2.0\NorthwindEmployees.csprojAssemblyReference.cache
+C:\sourcecode\csharp\chapter14\PracticalApps\NorthwindEmployees\obj\Debug\netstandard2.0\staticwebassets\NorthwindEmployees.StaticWebAssets.Manifest.cache
+C:\sourcecode\csharp\chapter14\PracticalApps\NorthwindEmployees\obj\Debug\netstandard2.0\staticwebassets\NorthwindEmployees.StaticWebAssets.xml
+C:\sourcecode\csharp\chapter14\PracticalApps\NorthwindEmployees\obj\Debug\netstandard2.0\NorthwindEmployees.RazorComponent.input.cache
+C:\sourcecode\csharp\chapter14\PracticalApps\NorthwindEmployees\obj\Debug\netstandard2.0\RazorDeclaration\Component1.razor.g.cs
+C:\sourcecode\csharp\chapter14\PracticalApps\NorthwindEmployees\obj\Debug\netstandard2.0\RazorDeclaration\_Imports.razor.g.cs

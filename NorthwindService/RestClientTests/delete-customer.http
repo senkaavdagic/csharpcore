@@ -1,0 +1,3 @@
+DELETE https://localhost:5001/api/customers/GUGUL9 HTTP/1.1
+###
+DELETE https://localhost:5001/api/customers/bad HTTP/1.1

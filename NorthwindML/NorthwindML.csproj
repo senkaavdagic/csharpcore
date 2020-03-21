@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" version="3.1.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" version="3.1.2" />
+    <PackageReference Include="Microsoft.ML" version="1.4.0" />
+    <PackageReference Include="Microsoft.ML.Recommender" version="0.16.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NorthwindContextLib\NorthwindContextLib.csproj" />
+    <ProjectReference Include="..\NorthwindEmployees\NorthwindEmployees.csproj" />
+  </ItemGroup>
+
+
+
+</Project>

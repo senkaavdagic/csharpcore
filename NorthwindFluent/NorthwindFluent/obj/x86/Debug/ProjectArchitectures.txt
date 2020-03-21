@@ -1,0 +1,1 @@
+C:\source\PracticalApps\NorthwindFluent\NorthwindFluent\NorthwindFluent.csproj;x86

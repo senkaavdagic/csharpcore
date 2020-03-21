@@ -1,0 +1,13 @@
+C:\sourcecode\csharp\chapter14\PracticalApps\WindowsDesktopApps\BasicWinForms\bin\Debug\netcoreapp3.1\BasicWinForms.exe
+C:\sourcecode\csharp\chapter14\PracticalApps\WindowsDesktopApps\BasicWinForms\bin\Debug\netcoreapp3.1\BasicWinForms.deps.json
+C:\sourcecode\csharp\chapter14\PracticalApps\WindowsDesktopApps\BasicWinForms\bin\Debug\netcoreapp3.1\BasicWinForms.runtimeconfig.json
+C:\sourcecode\csharp\chapter14\PracticalApps\WindowsDesktopApps\BasicWinForms\bin\Debug\netcoreapp3.1\BasicWinForms.runtimeconfig.dev.json
+C:\sourcecode\csharp\chapter14\PracticalApps\WindowsDesktopApps\BasicWinForms\bin\Debug\netcoreapp3.1\BasicWinForms.dll
+C:\sourcecode\csharp\chapter14\PracticalApps\WindowsDesktopApps\BasicWinForms\bin\Debug\netcoreapp3.1\BasicWinForms.pdb
+C:\sourcecode\csharp\chapter14\PracticalApps\WindowsDesktopApps\BasicWinForms\obj\Debug\netcoreapp3.1\BasicWinForms.csprojAssemblyReference.cache
+C:\sourcecode\csharp\chapter14\PracticalApps\WindowsDesktopApps\BasicWinForms\obj\Debug\netcoreapp3.1\BasicWinForms.AssemblyInfoInputs.cache
+C:\sourcecode\csharp\chapter14\PracticalApps\WindowsDesktopApps\BasicWinForms\obj\Debug\netcoreapp3.1\BasicWinForms.AssemblyInfo.cs
+C:\sourcecode\csharp\chapter14\PracticalApps\WindowsDesktopApps\BasicWinForms\obj\Debug\netcoreapp3.1\BasicWinForms.dll
+C:\sourcecode\csharp\chapter14\PracticalApps\WindowsDesktopApps\BasicWinForms\obj\Debug\netcoreapp3.1\BasicWinForms.pdb
+C:\sourcecode\csharp\chapter14\PracticalApps\WindowsDesktopApps\BasicWinForms\obj\Debug\netcoreapp3.1\LegacyWinForms.Form1.resources
+C:\sourcecode\csharp\chapter14\PracticalApps\WindowsDesktopApps\BasicWinForms\obj\Debug\netcoreapp3.1\BasicWinForms.csproj.GenerateResource.cache

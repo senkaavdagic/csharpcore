@@ -1,0 +1,1 @@
+C:\source\PracticalApps\FluentUwpApp\FluentUwpApp\FluentUwpApp.csproj;x86

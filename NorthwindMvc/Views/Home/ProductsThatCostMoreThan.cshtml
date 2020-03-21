@@ -1,0 +1,24 @@
+@model IEnumerable<Library.Product>
+@{
+    ViewData["Title"] = "Products that cost more than " + ViewData["MaxPrice"];
+}
+<h2>Products that cost more than @ViewData["MaxPrice"]</h2>
+<table class="table">
+    <tr>
+        <th>Category name</th>
+        <th>Supplier's company name</th>
+        <th>Product name</th>
+        <th>Unit price</th>
+        <th>Units in stock</th>
+    </tr>
+    @foreach(var item in Model)
+    {
+        <tr>
+            <td>@Html.DisplayFor(modelItem => item.Category.CategoryName)</td>
+            <td>@Html.DisplayFor(modelItem => item.Supplier.CompanyName)</td>
+            <td>@Html.DisplayFor(modelItem => item.ProductName)</td>
+            <td>@Html.DisplayFor(modelItem => item.UnitPrice)</td>
+            <td>@Html.DisplayFor(modelItem => item.UnitsInStock)</td>
+        </tr>
+    }
+</table>
