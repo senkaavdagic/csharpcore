@@ -1,0 +1,11 @@
+C:\source\PracticalApps\ConsoleApps\AssemblyApps\obj\Debug\netcoreapp3.1\AssemblyApps.csprojAssemblyReference.cache
+C:\source\PracticalApps\ConsoleApps\AssemblyApps\obj\Debug\netcoreapp3.1\AssemblyApps.AssemblyInfoInputs.cache
+C:\source\PracticalApps\ConsoleApps\AssemblyApps\obj\Debug\netcoreapp3.1\AssemblyApps.AssemblyInfo.cs
+C:\source\PracticalApps\ConsoleApps\AssemblyApps\bin\Debug\netcoreapp3.1\AssemblyApps.exe
+C:\source\PracticalApps\ConsoleApps\AssemblyApps\bin\Debug\netcoreapp3.1\AssemblyApps.deps.json
+C:\source\PracticalApps\ConsoleApps\AssemblyApps\bin\Debug\netcoreapp3.1\AssemblyApps.runtimeconfig.json
+C:\source\PracticalApps\ConsoleApps\AssemblyApps\bin\Debug\netcoreapp3.1\AssemblyApps.runtimeconfig.dev.json
+C:\source\PracticalApps\ConsoleApps\AssemblyApps\bin\Debug\netcoreapp3.1\AssemblyApps.dll
+C:\source\PracticalApps\ConsoleApps\AssemblyApps\bin\Debug\netcoreapp3.1\AssemblyApps.pdb
+C:\source\PracticalApps\ConsoleApps\AssemblyApps\obj\Debug\netcoreapp3.1\AssemblyApps.dll
+C:\source\PracticalApps\ConsoleApps\AssemblyApps\obj\Debug\netcoreapp3.1\AssemblyApps.pdb

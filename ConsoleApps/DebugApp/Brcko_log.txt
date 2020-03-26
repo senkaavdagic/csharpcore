@@ -1,0 +1,3 @@
+Off: Trace... Should write to file... 
+Trace error
+Trace warning

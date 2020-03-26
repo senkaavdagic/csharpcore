@@ -1,0 +1,11 @@
+C:\source\PracticalApps\ConsoleApps\CalculateTaxApp\obj\Debug\netcoreapp3.1\CalculateTaxApp.csprojAssemblyReference.cache
+C:\source\PracticalApps\ConsoleApps\CalculateTaxApp\obj\Debug\netcoreapp3.1\CalculateTaxApp.AssemblyInfoInputs.cache
+C:\source\PracticalApps\ConsoleApps\CalculateTaxApp\obj\Debug\netcoreapp3.1\CalculateTaxApp.AssemblyInfo.cs
+C:\source\PracticalApps\ConsoleApps\CalculateTaxApp\bin\Debug\netcoreapp3.1\CalculateTaxApp.exe
+C:\source\PracticalApps\ConsoleApps\CalculateTaxApp\bin\Debug\netcoreapp3.1\CalculateTaxApp.deps.json
+C:\source\PracticalApps\ConsoleApps\CalculateTaxApp\bin\Debug\netcoreapp3.1\CalculateTaxApp.runtimeconfig.json
+C:\source\PracticalApps\ConsoleApps\CalculateTaxApp\bin\Debug\netcoreapp3.1\CalculateTaxApp.runtimeconfig.dev.json
+C:\source\PracticalApps\ConsoleApps\CalculateTaxApp\bin\Debug\netcoreapp3.1\CalculateTaxApp.dll
+C:\source\PracticalApps\ConsoleApps\CalculateTaxApp\bin\Debug\netcoreapp3.1\CalculateTaxApp.pdb
+C:\source\PracticalApps\ConsoleApps\CalculateTaxApp\obj\Debug\netcoreapp3.1\CalculateTaxApp.dll
+C:\source\PracticalApps\ConsoleApps\CalculateTaxApp\obj\Debug\netcoreapp3.1\CalculateTaxApp.pdb
