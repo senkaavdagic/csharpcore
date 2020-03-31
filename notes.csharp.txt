@@ -1,0 +1,13 @@
+Delegate method in the code calling the method:
+(Program.cs)
+delegate int DelegateMethod(string s);
+in the main:
+var dm = new DelegateMethod(mama.RegularMethod);
+        int answer = dm("DanasNamJeDivanDan");
+		
+
+(Person.cs)
+public int RegularMethod(string s)
+        {
+            return s.Length;
+        }
